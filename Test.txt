@@ -1,2 +1,3 @@
 text text text
 added some new text
+added text 2
